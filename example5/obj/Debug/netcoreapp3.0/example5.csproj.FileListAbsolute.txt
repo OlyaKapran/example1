@@ -1,0 +1,11 @@
+/Users/olgakapran/Desktop/1 лекция/example5/bin/Debug/netcoreapp3.0/example5
+/Users/olgakapran/Desktop/1 лекция/example5/bin/Debug/netcoreapp3.0/example5.deps.json
+/Users/olgakapran/Desktop/1 лекция/example5/bin/Debug/netcoreapp3.0/example5.runtimeconfig.json
+/Users/olgakapran/Desktop/1 лекция/example5/bin/Debug/netcoreapp3.0/example5.runtimeconfig.dev.json
+/Users/olgakapran/Desktop/1 лекция/example5/bin/Debug/netcoreapp3.0/example5.dll
+/Users/olgakapran/Desktop/1 лекция/example5/bin/Debug/netcoreapp3.0/example5.pdb
+/Users/olgakapran/Desktop/1 лекция/example5/obj/Debug/netcoreapp3.0/example5.csprojAssemblyReference.cache
+/Users/olgakapran/Desktop/1 лекция/example5/obj/Debug/netcoreapp3.0/example5.AssemblyInfoInputs.cache
+/Users/olgakapran/Desktop/1 лекция/example5/obj/Debug/netcoreapp3.0/example5.AssemblyInfo.cs
+/Users/olgakapran/Desktop/1 лекция/example5/obj/Debug/netcoreapp3.0/example5.dll
+/Users/olgakapran/Desktop/1 лекция/example5/obj/Debug/netcoreapp3.0/example5.pdb
